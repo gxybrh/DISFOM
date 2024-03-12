@@ -2,3 +2,5 @@ This document includes the codes for the numerical experiment in the manuscript:
 High-Dimensional Stochastic Optimization
 
 run ./qua_box.sh in linux terminal
+
+Credit of the codes are to Mr. Jiawen Bi.
